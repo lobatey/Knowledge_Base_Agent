@@ -1,4 +1,4 @@
-# 🚀 My Agent - 智能知识库问答系统
+# 🚀 Knowledge-base-agent - 知识库智能问答系统
 
 基于 LangGraph、FastAPI、Streamlit 和 ChromaDB 构建的企业级知识库问答 Agent。
 
